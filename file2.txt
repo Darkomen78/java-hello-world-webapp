@@ -1,2 +1,1 @@
-un texte 11111
-une ligne de texte
+ceci est fichier
